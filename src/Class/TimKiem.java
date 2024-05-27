@@ -1,0 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Class;
+
+/**
+ *
+ * @author lehie
+ */
+public class TimKiem {
+    public String MAS;
+    public String TENSACH;
+    public int SOLUONG;
+}
